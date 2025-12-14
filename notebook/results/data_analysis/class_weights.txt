@@ -1,0 +1,10 @@
+# Class weights for FER2013 training
+# Format: class_index: weight
+
+0: 1.0266  # angry
+1: 9.4066  # disgust
+2: 1.0010  # fear
+3: 0.5684  # happy
+4: 0.8491  # sad
+5: 1.2934  # surprise
+6: 0.8260  # neutral
